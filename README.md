@@ -1,3 +1,5 @@
 # Poke_API
 
-<h1>POKÉ API</H1>
+Este repositorio contiene ejercicio práctico de como consumir una API mediante JAVASCRIPT.
+
+https://paulalopezs95.github.io/Poke_API/
